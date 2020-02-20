@@ -1,5 +1,9 @@
 package app
 
+import (
+	"fmt"
+)
+
 func StartApp(){
-	retrun fmt.Println("app pakage with StartApp func")
+	fmt.Println("app pakage with StartApp func")
 }

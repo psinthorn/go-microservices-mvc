@@ -5,5 +5,6 @@ import (
 )
 
 func StartApp(){
-	fmt.Println("app pakage with StartApp func")
+
+	fmt.Println("StartApp is running import from app package")
 }
